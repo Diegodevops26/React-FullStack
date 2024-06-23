@@ -1,5 +1,4 @@
 
-![React com Typescript: desenvolvendo uma área administrativa com MUI, Recharts e Styled Components](https://imgur.com/Qgf3van.png)
 
 # React com Typescript: desenvolvendo uma área administrativa
 
